@@ -3,11 +3,13 @@
     margin: 0px;
 }
 
+/* Container boyut belirlendi */
 .container {
     width: 1500px;
     margin: 0 auto;
 }
 
+/* İçerikler */
 .content {
     width: 1500px;
     height: 60px;
@@ -25,6 +27,7 @@ input {
     margin: 0 auto;
 }
 
+/* Kutular tanımlandı */
 .alt-taraf {
     width: 1500px;
     height: 80px;
