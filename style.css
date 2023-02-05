@@ -1,0 +1,60 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.content {
+    width: 1500px;
+    height: 60px;
+    background-color: rgb(255, 255, 232);
+    text-align: center;
+}
+
+input {
+    width: 30%;
+}
+
+#google-image {
+    width: 351px;
+    height: 113px;
+    margin: 0 auto;
+}
+
+.alt-taraf {
+    width: 1500px;
+    height: 80px;
+    margin: 2px;
+}
+
+.sol-kutu {
+    width: 39%;
+    height: 93%;
+    float: left;
+    text-align: center;
+    padding-top: 1%;
+    background-color: rgb(222, 252, 249);
+}
+
+.center-kutu {
+    width: 19.3%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    margin: 0 5px;
+    padding: 0.3%;
+    background-color: rgb(170, 203, 115);
+}
+
+.sag-kutu {
+    height: 100%;
+    width: 39.7%;
+    float: left;
+    text-align: center;
+    padding: 0.3%;
+    background-color: rgb(205, 233, 144);
+}
